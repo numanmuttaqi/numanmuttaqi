@@ -32,16 +32,51 @@
 <br/>
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c%23&logoColor=white" />
+**Languages**
+
+<p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c%23&logoColor=white" />
+</p>
+
+**Web & Frontend**
+
+<p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Data & Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphDB-000000?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+
+**Semantic Web & Knowledge Engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/RDF-000000?style=for-the-badge&logo=w3c&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWL-000000?style=for-the-badge&logo=w3c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPARQL-000000?style=for-the-badge&logo=w3c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHACL-000000?style=for-the-badge&logo=w3c&logoColor=white" />
+</p>
+
+**BI & Analytics**
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-000000?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
 <br/>
