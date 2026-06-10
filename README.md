@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/numanmttq/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
   </a>
 </p>
 
@@ -18,17 +18,17 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello there! <em><b>I'm Numan Muttaqi</b></em>, an IT and business analysis professional with a background in architecture and built-environment technology. I work at the intersection of requirements engineering, digital transformation, data analysis, and product-oriented IT delivery.
 </p>
 
 
 <br/>
 
-<p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+<p>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> M.Sc. Information Technology for the Built Environment, Technical University of Munich </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Working Student - IT Business Analyst at Essity </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Business Analysis, Requirements Engineering, UAT, Power BI, and Agile IT Delivery </b></em><br/>
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Interested in Product Ownership, Digital Transformation, and Data-Driven Systems </b></em><br/>
 </p>
 
 <br/>
@@ -57,7 +57,7 @@
 
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=numanmuttaqi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
