@@ -14,9 +14,6 @@
 
 <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="<div class="tenor-gif-embed" data-postid="9566807217432504006" data-share-method="host" data-aspect-ratio="1.0122" data-width="100%"><a href="https://tenor.com/view/shiny-gengar-ig-gif-9566807217432504006">Shiny Gengar Ig Sticker</a>from <a href="https://tenor.com/search/shiny+gengar+ig-stickers">Shiny Gengar Ig Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="250" align="right" style="margin-left: 20px;" />
-<br/>
-
 <p>
   Hello there! <em><b>I'm Numan Muttaqi</b></em>, an IT and business analysis professional with a background in architecture and built-environment technology. I work at the intersection of requirements engineering, digital transformation, data analysis, and product-oriented IT delivery.
 </p>
@@ -28,7 +25,7 @@
    <img src="/imgs/img3.png" width="15"/>   <em><b> M.Sc. Information Technology for the Built Environment, Technical University of Munich </b></em> <br/>
    <img src="/imgs/img4.png" width="15"/>   <em><b> Working Student - IT Business Analyst at Essity </b></em><br/>
    <img src="/imgs/img2.png" width="15"/>   <em><b> Business Analysis, Requirements Engineering, UAT, Power BI, and Agile IT Delivery </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Interested in Product Ownership, Digital Transformation, and Data-Driven Systems </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Interested in Product Ownership, Digital Transformation, and Data-Driven Systems </b></em><br/>
 </p>
 
 <br/>
@@ -36,7 +33,7 @@
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
